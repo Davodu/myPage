@@ -287,11 +287,12 @@ padding: 10px;}
     background: url("./img/edu/logo/duke.png") no-repeat center;
     background-size: contain; }
 
-/*ABout*/
+/*About*/
 
 #bio_1 {
   background: #fff url("#") center;
-  background-size: 0px; }
+  background-size: 0px; 
+}
 
 
 /*Work experience*/
